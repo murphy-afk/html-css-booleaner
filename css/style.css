@@ -1,3 +1,12 @@
+body {
+  margin: 0;
+}
+
+main {
+  margin-left: 5px;
+}
+/* header style */
+
 .banner {
   background-color: rgb(75, 152, 199);
   background-image: url(../img/img/pattern.png);
@@ -7,4 +16,20 @@
 .banner-img {
   width: 200px;
   padding-top: 40px;
+}
+
+/* title style */
+
+.link {
+  text-decoration: none;
+  color: rgb(77, 157, 207);
+}
+
+.text-gray {
+  color: gray;
+  margin: 0;
+}
+
+.title {
+  margin-bottom: 0;
 }

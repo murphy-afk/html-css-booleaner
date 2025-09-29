@@ -9,6 +9,11 @@ main {
 figure {
   margin: 0;
 }
+
+ul {
+  margin: 0;
+  padding: 15px;
+}
 /* header style */
 
 .banner {

@@ -1,18 +1,27 @@
-body {
-  margin: 0;
-}
-
-main {
-  margin-left: 5px;
-}
-
-figure {
-  margin: 0;
-}
+/* general */
 
 ul {
-  margin: 0;
   padding: 15px;
+}
+
+.text-bold {
+  font-weight: 300;
+}
+
+.text-small {
+  font-size: 10px;
+}
+
+.text-gray {
+  color: gray;
+}
+
+.margin0 {
+  margin: 0;
+}
+
+.margin5 {
+  margin: 5px;
 }
 
 /* header style */
@@ -28,6 +37,7 @@ ul {
   padding-top: 40px;
 }
 
+
 /* title style */
 
 .link {
@@ -35,14 +45,6 @@ ul {
   color: rgb(77, 157, 207);
 }
 
-.text-gray {
-  color: gray;
-  margin: 0;
-}
-
-.text-small {
-  font-size: 10px;
-}
 
 .title {
   margin-bottom: 0;
@@ -76,4 +78,5 @@ table {
 .width50 {
   width: 50%;
 }
+
 

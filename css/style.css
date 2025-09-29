@@ -1,0 +1,10 @@
+.banner {
+  background-color: rgb(75, 152, 199);
+  background-image: url(../img/img/pattern.png);
+  background-size: contain;
+}
+
+.banner-img {
+  width: 200px;
+  padding-top: 40px;
+}

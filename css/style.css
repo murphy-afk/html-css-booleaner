@@ -5,6 +5,10 @@ body {
 main {
   margin-left: 5px;
 }
+
+figure {
+  margin: 0;
+}
 /* header style */
 
 .banner {
@@ -30,6 +34,16 @@ main {
   margin: 0;
 }
 
+.text-small {
+  font-size: 10px;
+}
+
 .title {
   margin-bottom: 0;
 }
+
+/* images style  */
+
+.images {
+  text-align: left;
+} 

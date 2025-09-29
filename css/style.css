@@ -14,6 +14,7 @@ ul {
   margin: 0;
   padding: 15px;
 }
+
 /* header style */
 
 .banner {
@@ -51,4 +52,28 @@ ul {
 
 .images {
   text-align: left;
-} 
+}
+
+/* table style */
+table {
+  border-collapse: collapse;
+}
+
+.uneven-row {
+  background-color: rgb(129, 183, 215);
+}
+
+.table-head {
+  background-color: rgb(14, 167, 255);
+  color: rgb(255, 255, 255);
+  text-align: justify;
+}
+
+.width25 {
+  width: 25%;
+}
+
+.width50 {
+  width: 50%;
+}
+

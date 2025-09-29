@@ -5,7 +5,7 @@ ul {
 }
 
 .text-bold {
-  font-weight: 300;
+  font-weight: 600;
 }
 
 .text-small {
@@ -24,6 +24,17 @@ ul {
   margin: 5px;
 }
 
+.width25 {
+  width: 25%;
+}
+
+.width50 {
+  width: 50%;
+}
+
+.padding5 {
+  padding: 5px;
+}
 /* header style */
 
 .banner {
@@ -71,12 +82,22 @@ table {
   text-align: justify;
 }
 
-.width25 {
+/* footer style */
+
+.image {
   width: 25%;
+  height: 200px;
+  color: rgb(255, 255, 255);
 }
 
-.width50 {
-  width: 50%;
+.pc-image {
+  background-image: url(../img/img/monitor.jpg);
+  background-size: cover;
 }
 
+.graph-image {
+  background-image: url(../img/img/graph.jpg);
+  background-size: cover;
+  background-color: black;
+}
 

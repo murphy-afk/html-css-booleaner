@@ -16,6 +16,10 @@ ul {
   color: gray;
 }
 
+.margin-top0 {
+  margin-top: 0px;
+}
+
 .margin0 {
   margin: 0;
 }
@@ -35,6 +39,7 @@ ul {
 .padding5 {
   padding: 5px;
 }
+
 /* header style */
 
 .banner {
@@ -100,4 +105,3 @@ table {
   background-size: cover;
   background-color: black;
 }
-
